@@ -1,6 +1,6 @@
 # SCT_WD_3
 
-##Tic Tac Toe Game
+#Tic Tac Toe Game
 This project implements a simple Tic Tac Toe game using HTML, CSS, and JavaScript.
 
 Features
